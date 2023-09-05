@@ -16,6 +16,8 @@
 <br>🌐 &nbsp; Willing to contribute in Open Source.
 <br>☎ &nbsp; How to reach me: **mitimaah@gmail.com**.
 
+<br>
+
 ## 🛠️ Languages and Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
