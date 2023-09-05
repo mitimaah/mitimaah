@@ -1,7 +1,10 @@
 
 <h1 style="text-align: center;margin-bottom: 5px;">Hello world<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
 
+<br>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=db0fff&size=24&width=500&lines=Welcome+to+my+GitHub+Profile.;Glad+to+see+you+here!;Let's+code+awesome+things+together+💻)](https://git.io/typing-svg)
+
 ## About me
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="35%" height="auto" ></picture>
 
@@ -27,10 +30,10 @@
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![visalStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
+<!--
 <br>
-
 <p align="right">
 <a href="https://github.com/mitimaah/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=mitimaah">
 </a>
+-->
