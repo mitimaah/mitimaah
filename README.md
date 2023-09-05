@@ -1,5 +1,5 @@
 
-h1 style="text-align: center;margin-bottom: 5px;">Hi there src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
+<h1 style="text-align: center;margin-bottom: 5px;">Hi there src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
 
 <p align="left">
 <a href="https://github.com/mitimaah/github-profile-views-counter">
