@@ -3,15 +3,15 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=db0fff&size=24&width=500&lines=Welcome+to+my+GitHub+Profile.;Glad+to+see+you+here!;Let's+code+awesome+things+together+💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=db0fff&size=24&width=680&lines=Welcome+to+my+GitHub+profile.;Glad+to+see+you+here!;First,+solve+the+problem.+Then,+write+the+code.💻)](https://git.io/typing-svg)
 
 ## About me
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="35%" height="auto" ></picture>
 
-<br>👩‍💻 &nbsp; Became a Front-end developer by following my analytical personality.
+👩‍💻 &nbsp; Became a Front-end developer by following my analytical personality.
 <br>💻 &nbsp; Having 1+ year of experience as a Junior Software Enigeer in **FinTech**.
-<br>⏳ &nbsp; Always learning, growing and mastering my skillset in **Computer Science**.
-<br>✅ &nbsp; Currently mastering **React.js**, **Typescript**, **Next.js** and **Cypress**.
+<br>📈 &nbsp; Always learning, growing and mastering my skillset in **Computer Science**.
+<br>⚛ &nbsp; Currently mastering **React.js**, **Typescript**, **Next.js** and **Cypress**.
 <br>🚀 &nbsp; Looking for new career opportunities.
 <br>🌐 &nbsp; Willing to contribute in Open Source.
 <br>☎ &nbsp; How to reach me: **mitimaah@gmail.com**.
@@ -19,6 +19,7 @@
 <br>
 
 ## 🛠️ Languages and Tools
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
