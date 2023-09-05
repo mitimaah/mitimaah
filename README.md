@@ -30,7 +30,7 @@
 
 <br>
 
-<p align="left">
+<p align="right">
 <a href="https://github.com/mitimaah/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=mitimaah">
 </a>
