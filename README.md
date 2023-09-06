@@ -5,13 +5,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=db0fff&size=24&width=680&lines=Welcome+to+my+GitHub+profile.;Glad+to+see+you+here!;First,+solve+the+problem.+Then,+write+the+code.💻)](https://git.io/typing-svg)
 
-## About me
+## ✨ About me
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="35%" height="auto" ></picture>
 
 👩‍💻 &nbsp; Became a Front-end developer by following my analytical personality.
 <br>💻 &nbsp; Having 1+ year of experience as a Junior Software Enigeer in **FinTech**.
 <br>📈 &nbsp; Always learning, growing and mastering my skillset in **Computer Science**.
-<br>⚛ &nbsp; Currently mastering **React.js**, **Typescript**, **Next.js** and **Cypress**.
+<br>⚛ &nbsp; Currently focused on **React.js**, **Typescript**, **Next.js** and **Cypress**.
 <br>🚀 &nbsp; Looking for new career opportunities.
 <br>🌐 &nbsp; Willing to contribute in Open Source.
 <br>☎ &nbsp; How to reach me: **mitimaah@gmail.com**.
@@ -34,6 +34,12 @@
 ![visalStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<!--
+My recent projects: [sekcja nad languages and tools]
+- ...
+- ...
+-->
 
 <!--
 <br>
