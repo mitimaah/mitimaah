@@ -3,7 +3,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=db0fff&size=24&width=680&lines=Welcome+to+my+GitHub+profile.;Glad+to+see+you+here!;First,+solve+the+problem.+Then,+write+the+code.💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=DB0FFF&size=24&width=680&lines=Welcome+to+my+GitHub+profile.;Glad+to+see+you+here!;First,+solve+the+problem.+Then,+write+the+code.💻)](https://git.io/typing-svg)
 
 ## ✨ About me
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="35%" height="auto" ></picture>
