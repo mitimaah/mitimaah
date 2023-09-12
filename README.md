@@ -11,7 +11,7 @@
 👩‍💻 &nbsp; Became a Front-end developer by following my analytical personality.
 <br>💻 &nbsp; Having 1+ year of experience as a Junior Software Enigeer in **FinTech**.
 <br>📈 &nbsp; Always learning, growing and mastering my skillset in **Computer Science**.
-<br>⚛ &nbsp; Currently focused on **React.js**, **Typescript**, **Next.js** and **Cypress**.
+<br>⚛ &nbsp; Currently focused on **React.js**, **TypeScript**, **Next.js** and **Cypress**.
 <br>🚀 &nbsp; Looking for new career opportunities.
 <br>🌐 &nbsp; Willing to contribute in Open Source.
 <br>☎ &nbsp; How to reach me: **mitimaah@gmail.com**.
