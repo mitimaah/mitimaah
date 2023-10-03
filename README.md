@@ -12,7 +12,7 @@
 <br>💻 &nbsp; Having 1+ year of experience as a Junior Software Enigeer in **FinTech**.
 <br>📈 &nbsp; Always learning, growing and mastering my skillset in **Computer Science**.
 <br>⚛ &nbsp; Currently focused on **React.js**, **TypeScript**, **Next.js** and **Linux**.
-<br>➡ &nbsp; Took a part in Dare IT React Challenge and built **[savings-app](https://savings-application.netlify.app/)**.
+<br>➡ &nbsp; Took a part in Dare IT React Challenge and built **[Savings app](https://savings-application.netlify.app/)**.
 <br>🚀 &nbsp; Looking for new career opportunities.
 <br>🌐 &nbsp; Willing to contribute in Open Source.
 <br>☎ &nbsp; How to reach me: **mitimaah@gmail.com**.
