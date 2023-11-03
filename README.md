@@ -9,6 +9,7 @@
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="35%" height="auto" ></picture>
 
 👩‍💻 &nbsp; Became a Front-end developer by following my analytical personality.
+<br>✅ &nbsp; Clean code lover obsessed with pixel perfect design.
 <br>💻 &nbsp; Having 1+ year of experience as a Junior Software Enigeer in **FinTech**.
 <br>📈 &nbsp; Always learning, growing and mastering my skillset in **Computer Science**.
 <br>⚛ &nbsp; Currently focused on **React.js**, **TypeScript**, **Next.js** and **Linux**.
