@@ -1,5 +1,5 @@
 
-<h1 style="text-align: center;margin-bottom: 5px;">Hello world<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
+<h1 style="text-align: center;margin-bottom: 5px;">Hello world <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px; "></h1>
 
 <br>
 
