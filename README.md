@@ -10,7 +10,7 @@
 
 💻 &nbsp; Having +1 year of experience as a Junior Front-end Developer in **FinTech**.
 <br>👩‍💻 &nbsp; Clean code lover obsessed with pixel perfect design.
-<br>📈 &nbsp; Always learning, growing and mastering my skillset in **Computer Science**.
+<br>📈 &nbsp; Learning, growing and mastering my skillset in **Computer Science**.
 <br>⚛ &nbsp; Currently focused on **React.js**, **TypeScript**, **Next.js** and **Linux**.
 <br>➡ &nbsp; Took a part in Dare IT React Challenge - built **[Savings app](https://savings-application.netlify.app/)**.
 <br>🚀 &nbsp; Looking for new career opportunities.
